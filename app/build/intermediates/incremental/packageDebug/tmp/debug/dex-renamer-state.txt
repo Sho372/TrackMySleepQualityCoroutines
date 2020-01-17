@@ -1,0 +1,4 @@
+#Thu Jan 16 22:41:33 PST 2020
+base.0=/home/shouhei/StudioProjects/TrackMySleepQualityCoroutines-Starter/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex

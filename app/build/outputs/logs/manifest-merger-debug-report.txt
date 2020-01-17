@@ -1,0 +1,245 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/shouhei/StudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/shouhei/StudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/shouhei/StudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/shouhei/StudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.databinding:databinding-adapters:3.3.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/databinding-adapters-3.3.0.aar/c2bf852901e816e6c79c238fab4e4fdb/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.3.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/databinding-runtime-3.3.0.aar/9d77fa21370eb8cfeb203fa6bf50ea87/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /home/shouhei/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha3.aar/ad487854fcfe9f9ef042b8241e44b83a/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-alpha08] /home/shouhei/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-ktx-1.0.0-alpha08.aar/2df0faa97fa761f06934e8ad49d5ce3d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-alpha08] /home/shouhei/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-1.0.0-alpha08.aar/9479b7e1627fb7d6db09e465d8bb06eb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/a0333fbbf0cfeb59d1fa9d37fe33f2da/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/shouhei/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/d7fa48485f718926afb664b740a94673/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-alpha08] /home/shouhei/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-ktx-1.0.0-alpha08.aar/d2b9a9fbe8f6fbe7f7747efbf43c68be/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-alpha08] /home/shouhei/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-1.0.0-alpha08.aar/ea7dd214bb40cfb6cda25a4d02cab71c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/ef7cda270aa5782597a5dde330d976f7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/797cadcbc46adbc2214a52059d8ee593/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/0ad5398239a5827ce0bccbf5a67478e7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.1] /home/shouhei/.gradle/caches/transforms-1/files-1.1/core-ktx-1.0.1.aar/158aaefd685e1f663ad9249df074367f/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-runtime:2.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/room-runtime-2.0.0.aar/b550c22afd2dae2de622ca2ec3318d1e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/fdc94b8d39439663f7d4a61a530b041a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/56cb0c376005505819f97a107d6157b6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/608091b9e672938506ea6ffdf2c6440d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-alpha08] /home/shouhei/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-ktx-1.0.0-alpha08.aar/51ae936e9557c9648316460d80f59790/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-alpha08] /home/shouhei/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-1.0.0-alpha08.aar/6f09ca6665e1bb42dea1c0d8f72cbbf8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/d76519b5123451845f2016f1c18dde6f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/shouhei/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/1c95726794140c118dc6520690acb45a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/21d5bb5534a42292762d29a3c7121af9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/7e3f4dd0810a5565666f2b4acf4a1044/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/3d7f66030355e9938e0a6211d4b2c80e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/5c011d350c4bc0f6d562245d5c5d5435/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/817bf2eeb6401ef6d17b44053f6ca2fe/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/6e97e6e2c2367d46eae01ffdedadc339/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/94d90c3be1c09a2ed34828d38697271d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/23d5c2a6a2e9e2ef1f3aa90270fd1dc5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/9a9d4de00ad73994c33038dd21032d7d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/574477fa833f68f66363ab586bf86d38/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-alpha08] /home/shouhei/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-ktx-1.0.0-alpha08.aar/abb06d49aae435f272767f2e7c01cb45/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common:1.0.0-alpha08] /home/shouhei/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-1.0.0-alpha08.aar/e60aaddaa1d09538785a783f2b82576b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/shouhei/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/4a1d9dc643ffd862172b9238436663e2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/1b5a49a2f2eb9c87b4a44908cef8a37a/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.0.0.aar/50f9c66b12787cbbc3ad9798d1fb9c7f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/28e25744e803ef8148d1c102a1aa6d29/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/200ca995e41ce5cc916665a7aa5bf2e7/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/90340d6893de1afa8dea10a1786a2e59/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/b5bbeed0558358be6098eb666a64eeab/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/sqlite-framework-2.0.0.aar/8227b66dfc8ccecef02e1f73048c2e19/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/sqlite-2.0.0.aar/3cf08c11d589bf235728e6a3501c08fe/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/ec8d7f4a9eed674472cf8ac6ce33729e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/57bcfbdb7111132fd3d4927056524d0c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/88c9837245c5261f7e6e300fc09ad766/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/b8d65d5b8be40b7e709f8f8ac2a0603e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/6ed8a0dbd7fdea0c4c4c38cac98985ee/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/abfd2400b65d9d4b6f1fadafbc90037e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/af171fd1955c53ab2edcd7fd7e62089f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/ed0860d6046b377d8809e8b165030695/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/shouhei/StudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/shouhei/StudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/shouhei/StudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /home/shouhei/StudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:3:5-54
+		INJECTED from /home/shouhei/StudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shouhei/StudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/shouhei/StudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /home/shouhei/StudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/shouhei/StudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/shouhei/StudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /home/shouhei/StudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/shouhei/StudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/shouhei/StudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/shouhei/StudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /home/shouhei/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha3.aar/ad487854fcfe9f9ef042b8241e44b83a/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /home/shouhei/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha3.aar/ad487854fcfe9f9ef042b8241e44b83a/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/a0333fbbf0cfeb59d1fa9d37fe33f2da/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/a0333fbbf0cfeb59d1fa9d37fe33f2da/AndroidManifest.xml:22:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/797cadcbc46adbc2214a52059d8ee593/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/797cadcbc46adbc2214a52059d8ee593/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.core:core:1.0.1] /home/shouhei/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/4a1d9dc643ffd862172b9238436663e2/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/shouhei/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/4a1d9dc643ffd862172b9238436663e2/AndroidManifest.xml:22:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/1b5a49a2f2eb9c87b4a44908cef8a37a/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/1b5a49a2f2eb9c87b4a44908cef8a37a/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/200ca995e41ce5cc916665a7aa5bf2e7/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/200ca995e41ce5cc916665a7aa5bf2e7/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/shouhei/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/4a1d9dc643ffd862172b9238436663e2/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /home/shouhei/StudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/shouhei/StudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/shouhei/StudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:9:9-68
+	android:icon
+		ADDED from /home/shouhei/StudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:7:9-57
+	android:allowBackup
+		ADDED from /home/shouhei/StudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/shouhei/StudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.android.trackmysleepquality.MainActivity
+ADDED from /home/shouhei/StudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/shouhei/StudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/shouhei/StudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/shouhei/StudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/shouhei/StudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/shouhei/StudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/shouhei/StudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:16:27-74
+meta-data#preloaded_fonts
+ADDED from /home/shouhei/StudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:19:9-21:57
+	android:resource
+		ADDED from /home/shouhei/StudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:21:13-54
+	android:name
+		ADDED from /home/shouhei/StudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:20:13-43
+uses-sdk
+INJECTED from /home/shouhei/StudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/shouhei/StudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+INJECTED from /home/shouhei/StudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.3.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/databinding-adapters-3.3.0.aar/c2bf852901e816e6c79c238fab4e4fdb/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.3.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/databinding-adapters-3.3.0.aar/c2bf852901e816e6c79c238fab4e4fdb/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.3.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/databinding-runtime-3.3.0.aar/9d77fa21370eb8cfeb203fa6bf50ea87/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.3.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/databinding-runtime-3.3.0.aar/9d77fa21370eb8cfeb203fa6bf50ea87/AndroidManifest.xml:22:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /home/shouhei/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha3.aar/ad487854fcfe9f9ef042b8241e44b83a/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /home/shouhei/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha3.aar/ad487854fcfe9f9ef042b8241e44b83a/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-alpha08] /home/shouhei/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-ktx-1.0.0-alpha08.aar/2df0faa97fa761f06934e8ad49d5ce3d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-alpha08] /home/shouhei/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-ktx-1.0.0-alpha08.aar/2df0faa97fa761f06934e8ad49d5ce3d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-alpha08] /home/shouhei/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-1.0.0-alpha08.aar/9479b7e1627fb7d6db09e465d8bb06eb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-alpha08] /home/shouhei/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-1.0.0-alpha08.aar/9479b7e1627fb7d6db09e465d8bb06eb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/a0333fbbf0cfeb59d1fa9d37fe33f2da/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/a0333fbbf0cfeb59d1fa9d37fe33f2da/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/shouhei/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/d7fa48485f718926afb664b740a94673/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/shouhei/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/d7fa48485f718926afb664b740a94673/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-alpha08] /home/shouhei/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-ktx-1.0.0-alpha08.aar/d2b9a9fbe8f6fbe7f7747efbf43c68be/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-alpha08] /home/shouhei/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-ktx-1.0.0-alpha08.aar/d2b9a9fbe8f6fbe7f7747efbf43c68be/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-alpha08] /home/shouhei/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-1.0.0-alpha08.aar/ea7dd214bb40cfb6cda25a4d02cab71c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-alpha08] /home/shouhei/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-1.0.0-alpha08.aar/ea7dd214bb40cfb6cda25a4d02cab71c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/ef7cda270aa5782597a5dde330d976f7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/ef7cda270aa5782597a5dde330d976f7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/797cadcbc46adbc2214a52059d8ee593/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/797cadcbc46adbc2214a52059d8ee593/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/0ad5398239a5827ce0bccbf5a67478e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/0ad5398239a5827ce0bccbf5a67478e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.1] /home/shouhei/.gradle/caches/transforms-1/files-1.1/core-ktx-1.0.1.aar/158aaefd685e1f663ad9249df074367f/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.1] /home/shouhei/.gradle/caches/transforms-1/files-1.1/core-ktx-1.0.1.aar/158aaefd685e1f663ad9249df074367f/AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-runtime:2.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/room-runtime-2.0.0.aar/b550c22afd2dae2de622ca2ec3318d1e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/room-runtime-2.0.0.aar/b550c22afd2dae2de622ca2ec3318d1e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/fdc94b8d39439663f7d4a61a530b041a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/fdc94b8d39439663f7d4a61a530b041a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/56cb0c376005505819f97a107d6157b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/56cb0c376005505819f97a107d6157b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/608091b9e672938506ea6ffdf2c6440d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/608091b9e672938506ea6ffdf2c6440d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-alpha08] /home/shouhei/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-ktx-1.0.0-alpha08.aar/51ae936e9557c9648316460d80f59790/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-alpha08] /home/shouhei/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-ktx-1.0.0-alpha08.aar/51ae936e9557c9648316460d80f59790/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-alpha08] /home/shouhei/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-1.0.0-alpha08.aar/6f09ca6665e1bb42dea1c0d8f72cbbf8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-alpha08] /home/shouhei/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-1.0.0-alpha08.aar/6f09ca6665e1bb42dea1c0d8f72cbbf8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/d76519b5123451845f2016f1c18dde6f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/d76519b5123451845f2016f1c18dde6f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/shouhei/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/1c95726794140c118dc6520690acb45a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/shouhei/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/1c95726794140c118dc6520690acb45a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/21d5bb5534a42292762d29a3c7121af9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/21d5bb5534a42292762d29a3c7121af9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/7e3f4dd0810a5565666f2b4acf4a1044/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/7e3f4dd0810a5565666f2b4acf4a1044/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/3d7f66030355e9938e0a6211d4b2c80e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/3d7f66030355e9938e0a6211d4b2c80e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/5c011d350c4bc0f6d562245d5c5d5435/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/5c011d350c4bc0f6d562245d5c5d5435/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/817bf2eeb6401ef6d17b44053f6ca2fe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/817bf2eeb6401ef6d17b44053f6ca2fe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/6e97e6e2c2367d46eae01ffdedadc339/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/6e97e6e2c2367d46eae01ffdedadc339/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/94d90c3be1c09a2ed34828d38697271d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/94d90c3be1c09a2ed34828d38697271d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/23d5c2a6a2e9e2ef1f3aa90270fd1dc5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/23d5c2a6a2e9e2ef1f3aa90270fd1dc5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/9a9d4de00ad73994c33038dd21032d7d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/9a9d4de00ad73994c33038dd21032d7d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/574477fa833f68f66363ab586bf86d38/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/574477fa833f68f66363ab586bf86d38/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-alpha08] /home/shouhei/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-ktx-1.0.0-alpha08.aar/abb06d49aae435f272767f2e7c01cb45/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-alpha08] /home/shouhei/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-ktx-1.0.0-alpha08.aar/abb06d49aae435f272767f2e7c01cb45/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0-alpha08] /home/shouhei/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-1.0.0-alpha08.aar/e60aaddaa1d09538785a783f2b82576b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0-alpha08] /home/shouhei/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-1.0.0-alpha08.aar/e60aaddaa1d09538785a783f2b82576b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/shouhei/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/4a1d9dc643ffd862172b9238436663e2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/shouhei/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/4a1d9dc643ffd862172b9238436663e2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/1b5a49a2f2eb9c87b4a44908cef8a37a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/1b5a49a2f2eb9c87b4a44908cef8a37a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.0.0.aar/50f9c66b12787cbbc3ad9798d1fb9c7f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.0.0.aar/50f9c66b12787cbbc3ad9798d1fb9c7f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/28e25744e803ef8148d1c102a1aa6d29/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/28e25744e803ef8148d1c102a1aa6d29/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/200ca995e41ce5cc916665a7aa5bf2e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/200ca995e41ce5cc916665a7aa5bf2e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/90340d6893de1afa8dea10a1786a2e59/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/90340d6893de1afa8dea10a1786a2e59/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/b5bbeed0558358be6098eb666a64eeab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/b5bbeed0558358be6098eb666a64eeab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/sqlite-framework-2.0.0.aar/8227b66dfc8ccecef02e1f73048c2e19/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/sqlite-framework-2.0.0.aar/8227b66dfc8ccecef02e1f73048c2e19/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/sqlite-2.0.0.aar/3cf08c11d589bf235728e6a3501c08fe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/sqlite-2.0.0.aar/3cf08c11d589bf235728e6a3501c08fe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/ec8d7f4a9eed674472cf8ac6ce33729e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/ec8d7f4a9eed674472cf8ac6ce33729e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/57bcfbdb7111132fd3d4927056524d0c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/57bcfbdb7111132fd3d4927056524d0c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/88c9837245c5261f7e6e300fc09ad766/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/88c9837245c5261f7e6e300fc09ad766/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/b8d65d5b8be40b7e709f8f8ac2a0603e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/b8d65d5b8be40b7e709f8f8ac2a0603e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/6ed8a0dbd7fdea0c4c4c38cac98985ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/6ed8a0dbd7fdea0c4c4c38cac98985ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/abfd2400b65d9d4b6f1fadafbc90037e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/abfd2400b65d9d4b6f1fadafbc90037e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/af171fd1955c53ab2edcd7fd7e62089f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/af171fd1955c53ab2edcd7fd7e62089f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/ed0860d6046b377d8809e8b165030695/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/ed0860d6046b377d8809e8b165030695/AndroidManifest.xml:20:5-44
+INJECTED from /home/shouhei/StudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+INJECTED from /home/shouhei/StudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/shouhei/StudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /home/shouhei/StudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shouhei/StudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/shouhei/StudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /home/shouhei/StudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shouhei/StudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/1b5a49a2f2eb9c87b4a44908cef8a37a/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/1b5a49a2f2eb9c87b4a44908cef8a37a/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/1b5a49a2f2eb9c87b4a44908cef8a37a/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/1b5a49a2f2eb9c87b4a44908cef8a37a/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/shouhei/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/1b5a49a2f2eb9c87b4a44908cef8a37a/AndroidManifest.xml:24:13-79
